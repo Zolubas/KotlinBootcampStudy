@@ -5,6 +5,8 @@ This repository contains the main parts of the kotlin bootcamp provided by Andro
 
 ## Class 1
 
+[Vocabulary](https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab)
+
 [Web developer enviroment](https://developer.android.com/training/kotlinplayground) is an interactive code editor on the web where you can practice writing Kotlin programs.
 All Kotlin programs need to have a main() function: fun main() {}
 Use the println() function to print a line of text.
