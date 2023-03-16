@@ -1,7 +1,7 @@
 # KotlinStudy
 This repository contains my kotlin study files
 
-[KotlinCrashCourse Branch](https://www.youtube.com/watch?v=5flXf8nuq60&t=302s)
+[KotlinCrashCourseStudy Branch](https://www.youtube.com/watch?v=5flXf8nuq60&t=302s)
 
 
 Other usefull links:
