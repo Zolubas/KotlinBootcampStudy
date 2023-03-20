@@ -48,7 +48,7 @@ fun Greeting(name: String) {
             .background(Color.Yellow)
             //.fillMaxSize()
             .size(400.dp)
-    ) { //<- is a Layout command
+    ) { 
         Text(
             text = "Hello $name!",
             color = Color.Blue,      //use ctrl+p to see the options (inside text)
