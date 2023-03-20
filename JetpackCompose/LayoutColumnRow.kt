@@ -40,7 +40,8 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String) {
-    Column( //You can use "Row" for Linear Alignment
+    Column( //<- is a Layout command
+        //You can use "Row" for Linear Alignment
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
         modifier = Modifier
